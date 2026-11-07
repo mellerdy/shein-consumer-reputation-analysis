@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.idea/
+.DS_Store
+
+# Raw / large data files
+data/raw/
+*.zip
