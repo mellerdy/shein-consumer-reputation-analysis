@@ -109,6 +109,7 @@ The analysis included:
 SHEIN related news coverage increased from only **10 cleaned headlines in 2019** to **1,356 headlines in 2025**.
 
 Ethics related topics also became a larger part of SHEIN's media coverage over time.
+![Annual SHEIN Media Volume](outputs/media_trends/annual_media_volume.png)
 
 ### 2. Ethical scrutiny increased alongside public attention
 
@@ -119,6 +120,8 @@ Ethics related media share was positively associated with Google search interest
 This suggests that months with greater ethical scrutiny also tended to have greater public search attention.
 
 Controversy therefore did not necessarily reduce visibility. Greater scrutiny often coincided with increased public interest.
+
+![SHEIN Public Attention Across Growth Periods](outputs/media_trends/public_attention_by_period.png)
 
 ### 3. Consumer response did not immediately decline
 
@@ -147,6 +150,8 @@ At the same time, consumer ratings and sentiment improved during the pandemic gr
 The results highlight an important business distinction:
 
 **A brand can become more visible and more controversial at the same time while consumer evaluations change more slowly.**
+
+![SHEIN Consumer Response Across Growth Periods](outputs/consumer_sentiment/consumer_response_by_period.png)
 
 ## Business Implications
 
